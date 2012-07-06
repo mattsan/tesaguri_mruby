@@ -1,0 +1,1 @@
+print "Hello mruby world!\n"
